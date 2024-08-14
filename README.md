@@ -1,5 +1,4 @@
 # QR-Code-Component
 
 Frontend Mentor IO Task
-
-Just a basic QR Code view
+A Beginner Task to Build a QR Code Component
